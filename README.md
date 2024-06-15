@@ -41,7 +41,7 @@ I used the two azure services and one ai service they are Azure Blob storage and
 Other Azure Technologies:
 Azure Analysis Services (AAS) is a fully managed platform as a service (PaaS) offered by Microsoft Azure for online analytical processing (OLAP) and data modeling. It allows businesses to create semantic data models, perform complex analytical queries, and build interactive reports and dashboards based on large volumes of data. i used this one because of text analysis.
 
-STEPS TO FOLLOW FOR SET THE PROJECTS:
+STEPS TO FOLLOW FOR SET THE PROJECT:
 1.INSTALL PYTHON COMPLIER AND VISUAL STUDIO
 2.SET UP THE GitHub account create repository 
 3.subcription from Azure portal 
