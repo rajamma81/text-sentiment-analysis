@@ -1,4 +1,4 @@
-                                                                             TEXT SENTIMENT ANLAYSIS
+ TEXT SENTIMENT ANLAYSIS
 
 Problem Statement:
 Customer Feedback Analysis: Businesses receive vast amounts of feedback through customer reviews, surveys, and social media. Manually analyzing this feedback is time-consuming and prone to bias. Sentiment analysis automates this process, providing quick insights into customer satisfaction levels, identifying common issues, and spotting trends.
@@ -41,7 +41,7 @@ I used the two azure services and one ai service they are Azure Blob storage and
 Other Azure Technologies:
 Azure Analysis Services (AAS) is a fully managed platform as a service (PaaS) offered by Microsoft Azure for online analytical processing (OLAP) and data modeling. It allows businesses to create semantic data models, perform complex analytical queries, and build interactive reports and dashboards based on large volumes of data. i used this one because of text analysis.
 
-STEPS TO FOLLOW TO SET UP THE PROJECTS
+STEPS TO FOLLOW FOR SET THE PROJECTS:
 1.INSTALL PYTHON COMPLIER AND VISUAL STUDIO
 2.SET UP THE GitHub account create repository 
 3.subcription from Azure portal 
